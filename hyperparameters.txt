@@ -1,0 +1,1 @@
+{'best_accuracy_lr': 0.01, 'best_accuracy_wd': 0.0001, 'best_loss_lr': 0.01, 'best_loss_wd': 1e-05}
